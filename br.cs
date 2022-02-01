@@ -166,4 +166,4 @@ class BandcampRename
             }
         }
     } //GetFilesInfo
-} //CopyRaw
+} //BandcampRename
