@@ -1,5 +1,5 @@
 # br
-Bandcamp Rename. Renames audio files downloaded from Bandcamp.
+Bandcamp Rename. Renames audio files downloaded from Bandcamp. Windows command line tool.
 
 Build using your favorite version of .net like this:
 
